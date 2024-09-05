@@ -27,3 +27,9 @@ dependencies {
 tasks.withType<Test> {
 	useJUnitPlatform()
 }
+
+//변경사항 자동 반영- DevTools의존성 추가
+dependencies {
+	developmentOnly("org.springframework.boot:spring-boot-devtools")
+}
+
