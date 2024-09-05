@@ -19,13 +19,13 @@
 ## ♠️ 깃허브 사용법
 <details>
   <summary>초기 세팅 방법</summary>
-  local에 원하는 폴더 생성<br/>
-  -> git init<br/>
-  -> git remote add origin {레포지토리 주소}<br/>
-  (연결 확인: git remote -v)<br/>
-  -> git checkout -b {원하는 브랜치 이름} <strong>(새로운 브랜치 생성)</strong> <br/>
-  (local 브랜치 및 현재 위치 브랜치 확인: git branch)<br/>
-  (origin 브랜치 확인 가능: git branch -r)
+  1. local에 원하는 폴더 생성<br/>
+  2. 루트 디렉토리에 git init<br/>
+  3. git clone {레포지토리 주소} <strong>(레포 내용 받아오기)</strong><br/>
+  -> 연결 확인: git remote -v<br/>
+  4. git checkout -b {원하는 브랜치 이름} <strong>(새로운 브랜치 생성)</strong> <br/>
+  -> local 브랜치 및 현재 위치 브랜치 확인: git branch<br/>
+  -> origin 브랜치 확인 가능: git branch -r
 </details>
 
 <details>
