@@ -1,6 +1,6 @@
 🎉 yumin22's branch 🎉
 # 웹 개발 스터디
-> 📚[공부한 내용 노션](https://www.notion.so/c32c3e9a16c44584949cb1325ddcf4f5?pvs=4)
+📚[yumin22's study notion](https://www.notion.so/c32c3e9a16c44584949cb1325ddcf4f5?pvs=4)
 
 <br/>
 
