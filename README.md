@@ -47,9 +47,9 @@
 
 ---
 ## ✏️ 개인 공부 계획
-||채원|유민 📚[[study notion]](https://stream-damselfly-2b5.notion.site/10eb2bf3cbd7809f9f9af9da90baacb6?pvs=4)|
+||채원➿[[Note]](https://www.notion.so/Spring-Study-2837e77c8b3947069aa0ed293ac8ae5c?pvs=4)|유민 📚[[study notion]](https://stream-damselfly-2b5.notion.site/10eb2bf3cbd7809f9f9af9da90baacb6?pvs=4)|
 |:--:|:--|:--|
-|1주차|JPA 활용1편 - 섹션2수강|spring 입문 강의- 섹션 3 수강<br/>바닐라js 문법 공부하기|
-|2주차|JPA 활용 1편 - 섹션 3,4 수강 & 노션 정리|react: 기초부터 실전까지- 섹션 2 수강|
-|3주차||react: 기초부터 실전까지- 섹션 3, 4 수강|
+|1주차|JPA 활용1 - 섹션2수강|spring 입문 강의- 섹션 3 수강<br/>바닐라js 문법 공부하기|
+|2주차|JPA 활용1 - 섹션 3,4 수강 & 노션 정리|react: 기초부터 실전까지- 섹션 2 수강|
+|3주차|JPA 활용1 - 노션정리 & 섹션 6까지 수강|react: 기초부터 실전까지- 섹션 3, 4 수강|
 
