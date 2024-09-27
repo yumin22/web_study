@@ -1,6 +1,6 @@
 🎉 yumin22's branch 🎉
 # 웹 개발 스터디
-📚[yumin22's study notion](https://www.notion.so/c32c3e9a16c44584949cb1325ddcf4f5?pvs=4)
+📚[yumin22's study notion](https://stream-damselfly-2b5.notion.site/10eb2bf3cbd7809f9f9af9da90baacb6?pvs=4)
 
 <br/>
 
